@@ -50,7 +50,7 @@ setuptools>=65.5.1 # Snyk vulnerability fix
 
 av==10.0.0
 streamlit==1.26.0
-streamlit-webrtc==0.45.1
+streamlit-webrtc==0.47.0
 Pillow==9.5.0
 pandas==1.5.3
 lightgbm==4.0.0
